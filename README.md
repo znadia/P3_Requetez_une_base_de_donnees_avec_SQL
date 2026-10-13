@@ -1,5 +1,7 @@
 # P3 Requêtez une base de données avec SQL
 
+L’entreprise et les données sont fictives
+
 ## Contexte
 
 Une compagnie d'assurance souhaite mieux accompagner ses clients en analysant le marché des assurances habitation.
@@ -36,4 +38,3 @@ SQL, SQLite, SQL Power Architect, Excel
 - `document_technique.pdf` dictionnaire des données, schéma, code SQL et base chargée
 - `requetes_sql.pdf` liste des requêtes et résultats
 - `presentation_methodologie.pdf` présentation du projet
-- `schema_relationnel.jpg` schéma de la base
